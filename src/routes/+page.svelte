@@ -12,6 +12,6 @@
 			We're currently building an amazing new experience for you. Please visit our main website in
 			the meantime.
 		</p>
-		<Button href="https://packetware.net/i/dash" variant='secondary'>Visit Main Website</Button>
+		<Button href="https://packetware.net/i/dash" variant='secondary'>Packetware Dashboard</Button>
 	</div>
 </main>
